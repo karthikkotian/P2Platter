@@ -1,4 +1,3 @@
-
 P2Patter System
 
 P2Patter is a peer-to-peer (P2P) microblogging system, similar in functionality to [a popular microblogging social app], but using a P2P architecture instead of a web-based client-server architecture. Each P2Patter user has a microblog consisting of a series of textual messages. A user, such as Alice, can add messages to and remove messages from her own microblog. Another user, such as Bob, can follow Alice and see all her messages as she adds them. Bob can also follow multiple users simultaneously.
